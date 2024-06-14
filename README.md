@@ -1,4 +1,4 @@
 # first_repo_prashik
 This is my first repository.
 <br>
-author : prashik jangle
+author : prashik jangle (NIT CALICUT)
